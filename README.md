@@ -1,4 +1,4 @@
-# Snake Game AI
+# Machine Learning Snake
 
 A simple Snake Game implemented in Python using the Pygame library, with an artificial intelligence (AI) agent capable of playing the game.
 
@@ -46,7 +46,7 @@ This will initiate the training process for the AI agent.
 
 ## Contributing
 
-We welcome contributions to enhance "Snake Game AI." If you'd like to contribute, please follow these guidelines:
+We welcome contributions to enhance "Machine Learning Snake." If you'd like to contribute, please follow these guidelines:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/my-new-feature`.
