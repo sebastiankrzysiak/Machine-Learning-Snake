@@ -6,10 +6,9 @@ A simple Snake Game implemented in Python using the Pygame library, with an arti
 
 - [Files](#files)
 - [How to Run](#how-to-run)
-- [Components](#components)
   [Training Process](#training-process)
 - [License](#license)
--  [Contributing](#contributing)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Files
