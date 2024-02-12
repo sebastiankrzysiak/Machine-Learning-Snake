@@ -24,13 +24,17 @@ A simple Snake Game implemented in Python using the Pygame library, with an arti
 3. **model.py**
 
    Defines the neural network model used by the AI agent for Q-learning.
+   
+4. **helper.py**
+
+   A utility file containing functions to visualize training scores.
 
 ## How to Run
 
 1. Install the required dependencies:
 
    ```bash
-   pip install pygame torch numpy
+   pip install pygame torch numpy matplotlib
 
 ## Training Process
 
