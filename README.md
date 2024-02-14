@@ -7,6 +7,7 @@ A simple Snake Game implemented in Python using the Pygame library, with an arti
 - [Files](#files)
 - [How to Run](#how-to-run)
 - [Training Process](#training-process)
+- [Demo](#demo)
 - [License](#license)
 - [Contributing](#contributing)
 - [License](#license)
@@ -47,6 +48,10 @@ Run the training script:
 ```
 
 This will initiate the training process for the AI agent.
+
+## Demo
+
+![Snake Game Demo](https://github.com/sebastiankrzysiak/Machine-Learning-Snake/blob/main/MachineLearnSnake.gif)
 
 ## Contributing
 
