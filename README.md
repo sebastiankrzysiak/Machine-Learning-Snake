@@ -32,10 +32,11 @@ A simple Snake Game implemented in Python using the Pygame library, with an arti
 
 ## How to Run
 
-1. Install the required dependencies:
+Install the required dependencies:
 
    ```bash
    pip install pygame torch numpy matplotlib
+   ```
 
 ## Training Process
 
